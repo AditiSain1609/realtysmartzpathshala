@@ -1,4 +1,4 @@
-# Realty Smartz Pathshala
+## Realty Smartz Pathshala - Internship Project
 
 Realty Smartz Pathshala is a web-based learning and training platform developed for the real estate sector. The application provides a centralized system where users can register, log in, manage profiles, access learning resources, explore real estate projects, and interact with platform services.
 
