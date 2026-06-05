@@ -1,7 +1,6 @@
 # Realty Smartz Pathshala
 
-## Overview
--- Realty Smartz Pathshala is a web-based learning and training platform developed for the real estate sector. The application provides a centralized system where users can register, log in, manage profiles, access learning resources, explore real estate projects, and interact with platform services.
+Realty Smartz Pathshala is a web-based learning and training platform developed for the real estate sector. The application provides a centralized system where users can register, log in, manage profiles, access learning resources, explore real estate projects, and interact with platform services.
 
 The project was developed as part of an internship to gain practical experience in full-stack web development using PHP, MySQL, HTML, CSS, and JavaScript.
 
@@ -64,11 +63,7 @@ realtysmartzpathshala/
 3. Start Apache and MySQL from XAMPP.
 4. Import the MySQL database into phpMyAdmin.
 5. Update database credentials in the configuration file.
-6. Open the browser and run:
 
-```text
-http://localhost/realtysmartzpathshala
-```
 
 ## Learning Outcomes
 
